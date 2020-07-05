@@ -1,2 +1,3 @@
 # tensorflow-scripts
-My Keras test scripts
+
+Testing scripts of the keras library of tensorflow.
