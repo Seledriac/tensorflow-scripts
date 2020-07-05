@@ -1,3 +1,3 @@
-# tensorflow-scripts
+# Tensorflow scripts
 
 Testing scripts of the keras library of tensorflow.
